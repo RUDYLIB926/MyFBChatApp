@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "396409499232",
+    "firebase_url": "https://myfbchatapp.firebaseio.com",
+    "project_id": "myfbchatapp",
+    "storage_bucket": "myfbchatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396409499232:android:beacba8aaea221f8",
+        "android_client_info": {
+          "package_name": "rlibertini.myfbchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396409499232-ml2uo7r8fbncivei0rfe84fqf4t6olju.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rlibertini.myfbchatapp",
+            "certificate_hash": "42e72f8a133fe85a0ec968a0f9c790181cffc104"
+          }
+        },
+        {
+          "client_id": "396409499232-td3u7jmebskvk37s4mppsbcbe9dsb5nf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtS7iuZozp0L0KY9hB-mK67-S7OiYu-_E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396409499232-td3u7jmebskvk37s4mppsbcbe9dsb5nf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
